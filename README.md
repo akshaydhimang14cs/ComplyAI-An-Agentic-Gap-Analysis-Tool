@@ -18,10 +18,10 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Akshay Dhiman---> </p>
-    <p><strong>Email ID:</strong> <!--- akshaydhimang14cs@gmail.com---> </p>
-    <p><strong>College Name:</strong> <!--- IGNOU---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Information Security (Cyber Security)---> </p>
+    <p><strong>Name:</strong>Akshay Dhiman </p>
+    <p><strong>Email ID:</strong> akshaydhimang14cs@gmail.com</p>
+    <p><strong>College Name:</strong> IGNOU</p>
+    <p><strong>Branch/Specialization :</strong> Information Security (Cyber Security)</p>
 
 </div>
 
@@ -29,18 +29,18 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Cyber Security---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Shri. Hari Haran---> </p>
+    <p><strong>Course Opted:</strong> Cyber Security </p>
+    <p><strong>Instructor Name:</strong> Shri. Hari Haran </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Six months---> </p>
+    <p><strong>Duration:</strong> Six months Nov'2025-Apr'2026</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Shri. Hari Haran––></p>
+<p><strong>Trainer Name:</strong> Shri. Hari Haran</p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
 <p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
 
@@ -65,31 +65,21 @@
 
 ## Overall Learning
 
-> \\\_This is a placeholder. Replace the text below with your personal learning summary.\\\_
-During this course, I learned the fundamentals of Cyber security .
-I gained hands-on experience with and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During this course, I learned the fundamentals of cybersecurity.
+I gained hands-on experience with various cybersecurity concepts and tools such as Metasploit, Nmap, Wireshark, Cisco Packet Tracer, and Oracle VirtualBox, further strengthening  my skills in problem-solving, teamwork, documentation, and delivering real-world project solutions.
 
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-
-<p><strong><a href="#project1">Project 1:</a></strong> \\\&lt;!-- ComplyAI: An Agentic Gap Analysis  → --\\\&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
-
 </div>
-
-<!-- Project 1 -->
-
-<h3 id="project1">Project 1: <!-- ComplyAI: An Agentic Gap Analysis --></h3>
+<h3 id="project1"> Project 1: ComplyAI: An Agentic Gap Analysis</h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- https://github.com/akshaydhimang14cs/ComplyAI-An-Agentic-Gap-Analysis-Tool/blob/main/SURE%20Trust%20project%20report%20document.pdf -->" target="\\\_blank"><strong>→ View Full Project Report</strong></a>
+  <a href= "https://github.com/akshaydhimang14cs/ComplyAI-An-Agentic-Gap-Analysis-Tool/blob/main/SURE%20Trust%20project%20report%20document.pdf " target="\\\_blank"><strong>→ View Full Project Report</strong></a>
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
@@ -166,7 +156,7 @@ During my internship period, I participated in multiple community-oriented activ
 
 ## **Certificate**
 
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+The internship certificate serves as an official acknowledgement of the successful completion of my training period. It will be issued by the organisation upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
 
 <!-- add your certificate image url below (inside src='')-->
 
