@@ -20,7 +20,7 @@
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong>Akshay Dhiman </p>
     <p><strong>Email ID:</strong> akshaydhimang14cs@gmail.com</p>
-    <p><strong>College Name:</strong> IGNOU</p>
+    <p><strong>College Name:</strong> Indira Gandhi National Open University</p>
     <p><strong>Branch/Specialization :</strong> Information Security (Cyber Security)</p>
 
 </div>
@@ -30,7 +30,8 @@
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> Cyber Security </p>
-    <p><strong>Instructor Name:</strong> Shri. Hari Haran </p>
+    <p><strong>Instructor Name:</strong> Shri. Sen HariHaran </p>
+    <p><strong>Trainer Designation:</strong> Security Technician at FCIPL</p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> Six months Nov'2025-Apr'2026</p>
@@ -40,9 +41,9 @@
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> Shri. Hari Haran</p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Shri. Sen Hariharan</p>
+<p><strong>Trainer Email ID:</strong> harivk1815@gmail.com</p>
+<p><strong>Trainer Designation:</strong> Security Technician at FCIPL</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -87,6 +88,11 @@ I gained hands-on experience with various cybersecurity concepts and tools such 
 ## **References**
 
 * [Wikipedia](https://wikipedia.com)
+* ISO/IEC 27001:2022 — https://www.iso.org/standard/27001
+* NIST Cybersecurity Framework —https://www.wiz.io/academy/compliance/nist-cybersecurity-framework-csf
+* ISO 27001 vs NIST CSF — https://www.onetrust.com/blog/iso-27001-vs-nist-cybersecurity-framework/
+* Agentic AI and cybersecurity — https://safe.security/resources/insights/understanding-agentic-ai-and-its-cybersecurity-applications/
+* Survey of Agentic AI and Cybersecurity — https://arxiv.org/html/2601.05293v1
 
 <!--you can add refrences over here in same syntax as above -->
 
@@ -98,17 +104,13 @@ I gained hands-on experience with various cybersecurity concepts and tools such 
 
 <!-- add your experiences over here -->
 
-> \\\_This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary.\\\_
-LST and SST sessions helped me....
-
-\---
+During the LST and SST sessions, I learned the importance of discipline, communication, teamwork, and continuous self-improvement. These sessions helped me understand how to work in a structured way, respect responsibilities, and stay committed to my tasks. 
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
-
+During my internship period, through the community service activities, I also developed a stronger sense of social responsibility and empathy toward others. Overall, these experiences were very meaningful for my personal growth and helped me become more confident, humble, and aware of my duties toward society.
 ### **Activities Involved**
 
 <!-- add the location where you given -->
