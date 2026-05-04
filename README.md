@@ -96,7 +96,6 @@ I gained hands-on experience with various cybersecurity concepts and tools such 
 
 <!--you can add refrences over here in same syntax as above -->
 
-\---
 
 
 
@@ -147,12 +146,10 @@ During my internship period, through the community service activities, I also de
 * These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="\_\_\_\_\_\_\_\_\_\_\_\_\_\_" alt="Community Service Photo 1" width="30%">
-<img src="\_\_\_\_\_\_\_\_\_\_\_\_\_\_" alt="Community Service Photo 2" width="30%">
-<img src="\_\_\_\_\_\_\_\_\_\_\_\_\_\_" alt="Community Service Photo 3" width="30%">
+<img src="Project_Files/IMG_20260504_102854.jpg" alt="Community Service Photo 1" width="30%">
+<img src="Project_Files/IMG_20260504_102942.jpg" alt="Community Service Photo 2" width="30%">
+<img src="Project_Files/IMG_20260504_103047.jpg" alt="Community Service Photo 3" width="30%">
 </div>
-
-\---
 
 
 
